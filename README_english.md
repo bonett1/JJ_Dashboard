@@ -18,7 +18,7 @@ Focusing on Brazil, I created this dashboard to help identify areas with the hig
     - Human Development Index (HDI).  
 
 ## Dashboard Presentation  
-https://github.com/user-attachments/assets/eb5fa0fb-84f4-40be-83bb-891d20bad24c
+https://github.com/user-attachments/assets/7fa2c0e7-9613-4653-aa88-547afd249cb4
 
 This is an initial presentation of the dashboard. If you'd like to delve deeper into the analysis, follow the steps below.  
 
