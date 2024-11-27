@@ -26,9 +26,9 @@ This is an initial presentation of the dashboard. If you'd like to delve deeper 
 
 ### How to Use 📝  
 - Download Power BI  
-> https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop  
+> [https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop)  
 - Download the `.pbix` file to view the dashboard in Power BI  
-  - [J&J_BI_english.pbix]()  
+  - [J&J_BI_english.pbix](https://github.com/bonett1/JJ_Dashboard/blob/main/J%26J_BI_english.pbix)  
 - Open the file and use the available filters to explore the data by state and region.  
 
 ## Contributions  
