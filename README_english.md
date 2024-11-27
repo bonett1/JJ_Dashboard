@@ -20,13 +20,11 @@ Focusing on Brazil, I created this dashboard to help identify areas with the hig
 ## Dashboard Presentation  
 https://github.com/user-attachments/assets/eb5fa0fb-84f4-40be-83bb-891d20bad24c
 
-
-
 This is an initial presentation of the dashboard. If you'd like to delve deeper into the analysis, follow the steps below.  
 
 ### How to Use 📝  
 - Download Power BI  
-> [https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop)  
+> [Install Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop)  
 - Download the `.pbix` file to view the dashboard in Power BI  
   - [J&J_BI_english.pbix](https://github.com/bonett1/JJ_Dashboard/blob/main/J%26J_BI_english.pbix)  
 - Open the file and use the available filters to explore the data by state and region.  
