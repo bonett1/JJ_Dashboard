@@ -6,7 +6,7 @@ Este dashboard foi construído para um desafio online, um MVP criado em 1 semana
 > https://www.janssen.com/brasil/Esforco-colaborativo-com-USAID
 
 ## Objetivo 🚀
-Com foco no Brasil, criei este dashboard para ajudar a identificar áreas onde temos maior concentração de profissionais de saúde no Brasil, trouxe também uma relação entre Profissionais de Saúde x Estudantes da área, para assim termos uma análise completa de como está o serviço de saúde no Brasil.
+Com foco no Brasil, criei este dashboard para ajudar a identificar áreas onde temos maior concentração de profissionais de saúde no Brasil, trouxe também uma relação entre Profissionais de Saúde x Estudantes e Quantidade de Consultas, para assim termos uma análise completa de como está o serviço de saúde no Brasil.
 
 ## Tecnologia e Dados Utilizados ⚙️
 - **Ferramentas**: Excel e Power BI
@@ -16,18 +16,14 @@ Com foco no Brasil, criei este dashboard para ajudar a identificar áreas onde t
     - Número de médicos e estudantes de medicina (separados por gênero).
     - Relação médico/habitante por estado.
     - Índice de Desenvolvimento Humano (IDH).
- 
-## Apresentação do Dashboard
-https://github.com/user-attachments/assets/dbf3bc0e-ca88-45e0-a3fc-280a18fa700d
-
-Esta é uma apresentação inicial do dashboard, se tiver interesse de ir mais afundo em suas análises siga o passo a passo abaixo.
+    - Quantidade de Consultas por estado.
 
 ### Como Usar 📝
 - Faça o download do Power BI
 > [Instale o Power BI](https://www.microsoft.com/pt-br/power-platform/products/power-bi/desktop)
 - Faça o download do arquivo `.pbix` para visualizar o dashboard no Power BI
   - [J&J_BI.pbix](https://github.com/bonett1/JJ_Dashboard/blob/main/J%26J_BI.pbix)
-- Abra o arquivo e utilize os filtros disponíveis para explorar os dados por estado e região
+- Abra o arquivo e utilize os filtros disponíveis para explorar os dados por estado e região.
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias ou sugestões! 😉
