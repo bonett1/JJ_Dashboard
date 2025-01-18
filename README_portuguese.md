@@ -22,7 +22,7 @@ Com foco no Brasil, criei este dashboard para ajudar a identificar áreas onde t
 - Faça o download do Power BI
 > [Instale o Power BI](https://www.microsoft.com/pt-br/power-platform/products/power-bi/desktop)
 - Faça o download do arquivo `.pbix` para visualizar o dashboard no Power BI
-  - [J&J_BI.pbix](https://github.com/bonett1/JJ_Dashboard/blob/main/J%26J_BI.pbix)
+> [J&J_BI.pbix](https://github.com/bonett1/JJ_Dashboard/blob/main/J%26J_BI.pbix)
 - Abra o arquivo e utilize os filtros disponíveis para explorar os dados por estado e região.
 
 ## Contribuições
