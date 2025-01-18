@@ -18,6 +18,15 @@ Com foco no Brasil, criei este dashboard para ajudar a identificar áreas onde t
     - Índice de Desenvolvimento Humano (IDH).
     - Quantidade de Consultas por estado.
 
+### Preview 🖥️
+
+
+https://github.com/user-attachments/assets/1e50356b-45ac-42fa-89e8-bc5663621d88
+
+
+Neste vídeo mostro um preview do funcionamento do dashboard, para mais detalhes faça o passo a passo abaixo e acesse ele.
+
+
 ### Como Usar 📝
 - Faça o download do Power BI
 > [Instale o Power BI](https://www.microsoft.com/pt-br/power-platform/products/power-bi/desktop)
